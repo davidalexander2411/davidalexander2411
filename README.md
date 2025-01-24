@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm David</h1>
 <h3 align="center">Front-End Developer</h3>
 <br>
-- 🌱 I’m currently studying computer engineering **University of Indonesia**
+- 🌱 I’m currently studying Computer Engineering **University of Indonesia**
 
 - 👨‍💻 All of my projects are available at [dapid.vercel.app](dapid.vercel.app)
 
