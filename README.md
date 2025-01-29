@@ -3,7 +3,7 @@
 
 - 🌱 Computer Engineering at **University of Indonesia**
 
-- 👨‍💻 All of my projects are available at [dapid.vercel.app](dapid.vercel.app)
+- 👨‍💻 My projects are available at [dapid.vercel.app](dapid.vercel.app)
 
 - 📫 How to reach me: davidalexander2411@gmail.com
 
